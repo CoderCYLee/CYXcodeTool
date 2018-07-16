@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>cyStrong</string>
+	<string>CYMARK</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#type#&gt; *&lt;#name#&gt;;</string>
+	<string>// CY-MARK: &lt;#something#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9C0E50D6-EDF3-4483-B326-C7BD38645958</string>
+	<string>518AC186-C064-455D-BF12-33F9F32AD020</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CYMARK</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Strong属性</string>
+	<string>CYMARK</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
