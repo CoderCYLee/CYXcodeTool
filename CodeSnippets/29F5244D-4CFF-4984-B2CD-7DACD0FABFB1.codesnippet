@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>CYMARK</string>
+	<string>CYTODO</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// CY-MARK: &lt;#something#&gt;</string>
+	<string>// CY-TODO: &lt;#something#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>518AC186-C064-455D-BF12-33F9F32AD020</string>
+	<string>29F5244D-4CFF-4984-B2CD-7DACD0FABFB1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>个人标示用</string>
+	<string>将要做的事情</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>CYMARK</string>
+	<string>CYTODO</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
